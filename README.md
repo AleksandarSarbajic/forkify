@@ -16,7 +16,7 @@
   
 <a href="#quicstart" >Quickstart</a> • <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> Screenshot </a> • <a href="#you-may-also-like" align="center"> You may also like  </a> •  <a href="#license" align="center"> License  </a> 
 
-•<a href="https://github.com/AleksandarSarbajic/forkify" align="Center">Live Server</a>
+•<a href="https://forkify-app-aleksandar.netlify.app/" align="Center">Live Server</a>
 
 
 
