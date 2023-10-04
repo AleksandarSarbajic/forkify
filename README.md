@@ -1,4 +1,4 @@
----
+
 
  <img src="https://github.com/AleksandarSarbajic/forkify/blob/master/src/img/logo.png"/>
 
@@ -10,7 +10,7 @@
 
 </div>  
 
-<p align="center">The Fast React Pizza is an app, that that has a variety of different pizzas so everyone can find his favorite pizza to order</p>
+<p align="center">Forkify app, search over 1,000,000 recipies</p>
 
 <div align="center">
   
@@ -28,7 +28,8 @@
 
 ## Screenshot
 
-![Screenshot 2023-09-30 165057](https://github.com/AleksandarSarbajic/react-quiz/assets/114814838/1ee5c5a4-14a4-4630-b0ae-ae3597da1896)
+![Picture of landing page](https://github.com/AleksandarSarbajic/forkify/assets/114814838/2de85e15-574e-4389-a808-e609fbf3dfa0)
+
 
 ## Quicstart
 
@@ -54,6 +55,28 @@ $ npm run start
 
 ## How It Works
 
+At first you can search for the recipe you desire, add a recipe to our data and bookmark certain recipe so you can find it easily.
+
+![Picture of landing page](https://github.com/AleksandarSarbajic/forkify/assets/114814838/2de85e15-574e-4389-a808-e609fbf3dfa0)
+
+When you enter a certain text to search bar, you will get a full list of recipes that match that text.
+
+![Image of searched recieps ](https://github.com/AleksandarSarbajic/forkify/assets/114814838/7268ced2-c986-4e9e-b583-b287810ed7b7)
+
+When you click on certain recipe you will find that recipe on the screen.
+It contains images, name minutes needed to prepare it, number of servings, bookmark, ingredients and a link to the original recipe.
+When u click on button near servings, change the number of servings for your needs.
+On bookmark click, we can add or remove that recipe from bookmarks list.
+
+![Certain recipe](https://github.com/AleksandarSarbajic/forkify/assets/114814838/9b396b14-42bd-436f-9ba9-5cbb3a33d1b3)
+
+When we click on add recipe, we open modal where we can create our own recipe and upload it.
+
+![Image of adding recipe ](https://github.com/AleksandarSarbajic/forkify/assets/114814838/198a20c3-d98f-4f8b-9a6b-7b6d91ddc57f)
+
+When we hover over bookmarks, we can see all the bookmarks and when we click on one we go to that recipe page.
+
+![on hover](https://github.com/AleksandarSarbajic/forkify/assets/114814838/07893f1a-5f6d-4d00-aa93-c02275537d27)
 
 
 ## You may also like...
